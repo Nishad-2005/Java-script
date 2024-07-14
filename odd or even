@@ -1,0 +1,23 @@
+HTML >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="odd or even.js">
+
+    </script>
+</body>
+</html>
+
+JAVA SCRIPT>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+let num= 7;
+if (num%2===0){
+    console.log(num,"is even");
+}
+else {console.log(num,"is odd");}
