@@ -1,0 +1,25 @@
+HTML>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script src="check the number is multiple of 5.js"></script>
+</html>
+
+java script>>>>>>>>>>>>>>>
+
+let num= prompt("enter a number");
+ if (num%5===0){
+    console.log("Is an multiple of 5");
+
+ }
+ else {
+    console.log("is not an multiple of 5");
+ }
