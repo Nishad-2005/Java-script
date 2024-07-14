@@ -1,0 +1,26 @@
+HTML>>>>>>>>>>>>>>>>>>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="number prediction.js">
+        
+    </script>
+</body>
+</html>
+
+Java script>>>>>>>>>>>>>>>>>>
+
+let game =52;
+
+let user=prompt("guess the number");
+
+while(user!=game){
+    user=prompt("guess the number again");
+}
+document.write("congratulations")
