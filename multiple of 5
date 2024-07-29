@@ -1,4 +1,4 @@
-HTML>>>>>>>>>>>>>>>>>>>>>>>>>
+HTML
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +13,7 @@ HTML>>>>>>>>>>>>>>>>>>>>>>>>>
 <script src="check the number is multiple of 5.js"></script>
 </html>
 
-java script>>>>>>>>>>>>>>>
+java script
 
 let num= prompt("enter a number");
  if (num%5===0){
